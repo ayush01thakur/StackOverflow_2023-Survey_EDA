@@ -1,6 +1,8 @@
 # StackOverflow 2023 Survey EDA Project
 This project is an exploratory data analysis (EDA) of the StackOverflow Developer Survey 2023 data set. The data set contains the responses of over 89,184 developers who participated in the annual survey conducted by StackOverflow, the largest online community for programmers. The data set covers various aspects of the developers’ profile, such as demographics, education, skills, preferences, opinions, and careers.
 
+**Link to the dataset:** https://cdn.stackoverflow.co/files/jo7n4k8s/production/49915bfd46d0902c3564fd9a06b509d08a20488c.zip/stack-overflow-developer-survey-2023.zip
+
 ### Data Cleaning and Transformation
 The data set consists of 84 columns and 89,184 rows. The columns represent the questions asked in the survey, and the rows represent the individual responses. The data set contains missing values, outliers, and inconsistent formats. Therefore, some data cleaning and transformation steps are performed to make the data set suitable for analysis. These steps include:
 
